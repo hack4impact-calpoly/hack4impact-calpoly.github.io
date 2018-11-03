@@ -16092,10 +16092,10 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 }
 
 .h4i-filter:after {
-  background: rgba(47, 142, 47, 0.64);
-  background: linear-gradient(45deg, rgba(47, 142, 47, 0.88) 0%, rgba(46, 134, 185, 0.45) 100%);
-  background: -moz-linear-gradient(135deg, rgba(47, 142, 47, 0.88) 0%, rgba(46, 134, 185, 0.45) 100%);
-  background: -webkit-linear-gradient(135deg, rgba(47, 142, 47, 0.88) 0%, rgba(46, 134, 185, 0.45) 100%);
+  background: rgba(100, 171, 138, 0.64);
+  background: linear-gradient(45deg, rgba(100, 171, 138, 0.88) 0%, rgba(46, 134, 185, 0.45) 100%);
+  background: -moz-linear-gradient(135deg, rgba(100, 171, 138, 0.88) 0%, rgba(46, 134, 185, 0.45) 100%);
+  background: -webkit-linear-gradient(135deg, rgba(100, 171, 138, 0.88) 0%, rgba(46, 134, 185, 0.45) 100%);
 }
 
 footer {
