@@ -1,0 +1,11 @@
+.logo-main {
+   display: inline-block;
+   max-width: 22vw;
+}
+
+.h2-main {
+   display: inline-block;
+   padding-left: 16px;
+   vertical-align: middle;
+   color: white;
+}
